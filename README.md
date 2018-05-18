@@ -1,4 +1,5 @@
-# MEAN
+# MEAN-stack-playground
+A playground for MEAN stack dev (MongoDB / Express / Angular / Node)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
